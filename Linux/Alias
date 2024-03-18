@@ -1,0 +1,16 @@
+Como agregar un Alias a un comando de la terminal
+
+Paso 1:
+Abrimos nuestra terminal favorita
+
+Paso 2:
+escribimos el siguiente comando modificando tanto el comando como el alias a nuestro gusto
+
+alias <Palabra Clave>="<Comando>"
+
+Ejemplo:
+alias install="sudo apt install"
+
+Pase 3:
+le damos a la tecla Enter y cuando pongamos nuestro alias ya actuara el comando 
+
