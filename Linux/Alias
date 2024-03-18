@@ -4,13 +4,20 @@ Paso 1:
 Abrimos nuestra terminal favorita
 
 Paso 2:
-escribimos el siguiente comando modificando tanto el comando como el alias a nuestro gusto
+nano ~/.bashrc
+*recominedo escribir nuestros alias abajo del todo*
+
+Paso 3:
+escribimos nuestros alias modificando a nuestro gusto
 
 alias <Palabra Clave>="<Comando>"
 
 Ejemplo:
 alias install="sudo apt install"
 
-Pase 3:
-le damos a la tecla Enter y cuando pongamos nuestro alias ya actuara el comando 
+Paso 4:
+guardamos nuesto nano y escribimos este comando 
+
+source ~/.bashrc
+cuando termine de guardar ya podemos usar nuestros alias 
 
